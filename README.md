@@ -18,8 +18,8 @@ Download file bot dengan mengetik di termux tulisan di bawah ini
  
 ```bash
 pkg install git
-git clone https://github.com/Rizky598/WABOT.git
-cd WABOT
+git clone https://github.com/Rizky598/Rizky-Ai.git
+cd Rizky-Ai
 tar -xvzf archive-2025-06-26T065303Z.tar.gz
 cd extracted_folder/
 chmod +x install-bot.sh
