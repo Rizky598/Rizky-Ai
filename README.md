@@ -20,10 +20,10 @@ Download file bot dengan mengetik di termux tulisan di bawah ini
 pkg install git
 git clone https://github.com/Rizky598/Rizky-Ai.git
 cd Rizky-Ai
-tar -xvzf archive-2025-06-26T065303Z.tar.gz
+tar -xf archive-2025-06-29T194312Z.tar.gz
 cd extracted_folder/
-chmod +x install-bot.sh
-sh install-bot.sh
+chmod +x file.sh
+sh file.sh
 ```
 Untuk menghapus folder bernama session di Termux kamu bisa gunakan perintah berikut😊
 
