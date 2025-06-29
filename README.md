@@ -1,5 +1,6 @@
 # Rizky-Ai
-Bot WhatsApp auto respon menggunakan fitur ai
+# Bot WhatsApp auto respon menggunakan fitur ai
+
 Bot ini dilengkapi fitur scan barcode dan fairing jadi bisa pilih opsi mana apalagi bot ini dibuat 2025 jadi nggak perlu fix fairing dulu
 <div align="center">
   <p>
