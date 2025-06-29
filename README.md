@@ -4,7 +4,7 @@
 Bot ini dilengkapi fitur scan barcode dan fairing jadi bisa pilih opsi mana apalagi bot ini dibuat 2025 jadi nggak perlu fix fairing dulu
 <div align="center">
   <p>
-    <img src="1.jpg" width="200">
+    <img src="1.jpg" width="240">
     </p>
   
 
