@@ -31,7 +31,7 @@ rm -rf session
 ```
 # tutorial
 
-Kalau muncul tulisan seperti ini, tekan saja Y. Lakukan ini setiap proses berhenti. Setelah masuk ke menu utama
+Kalau muncul tulisan seperti ini tekan saja Y Lakukan ini setiap proses berhenti
 <div align="center">
   <p>
     <img src="2.jpg" width="250">
