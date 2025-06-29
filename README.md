@@ -31,7 +31,7 @@ rm -rf session
 ```
 # tutorial
 
-Kalau muncul tulisan seperti ini, tekan saja Y. Lakukan ini setiap proses berhenti. Setelah masuk ke menu utama (pilihan QR dan pairing), pastikan semua tulisan diketik dengan huruf kecil
+Kalau muncul tulisan seperti ini, tekan saja Y. Lakukan ini setiap proses berhenti. Setelah masuk ke menu utama
 <div align="center">
   <p>
     <img src="2.jpg" width="250">
