@@ -8,7 +8,7 @@ Bot ini dilengkapi fitur scan barcode dan fairing jadi bisa pilih opsi mana apal
     </p>
   
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Jmbs0K52j3fB4FOP5wViWX)
+[![Owner](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895627520102)
 
 # grup WhatsApp
 
